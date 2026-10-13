@@ -10,7 +10,7 @@ client.once("ready", async () => {
 
   try {
     const guild = await client.guilds.fetch(process.env.GUILD_ID);
-    const channel = await guild.channels.fetch("1559668500887371839");
+    const channel = await guild.channels.fetch("1559691462663340093");
 
     if (!channel || !channel.isVoiceBased()) {
       throw new Error("Invalid voice channel");
