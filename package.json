@@ -1,16 +1,16 @@
 {
-“name”: “vexora-voice-bot-2”,
-“version”: “1.0.0”,
-“description”: “VEXORA 24/7 Discord Voice Bot”,
-“main”: “index.js”,
-“scripts”: {
-“start”: “node index.js”
-},
-“engines”: {
-“node”: “20.x”
-},
-“dependencies”: {
-“discord.js”: “14.22.1”,
-“@discordjs/voice”: “0.18.0”
-}
+  "name": "vexora-voice-bot",
+  "version": "1.0.0",
+  "description": "VEXORA 24/7 Discord Voice Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "dependencies": {
+    "discord.js": "14.22.1",
+    "@discordjs/voice": "0.18.0"
+  }
 }
