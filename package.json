@@ -1,7 +1,7 @@
 {
   "name": "vexora-voice-bot",
   "version": "1.0.0",
-  "description": "VEXORA 24/7 Discord Voice Bot",
+  "description": "VEXORA 2 24/7 Discord Voice Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
